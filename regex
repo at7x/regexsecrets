@@ -1,1 +1,1 @@
-(?i)(access_key|access_token|admin_pass|admin_user|api_key|api_secret|app_secret|auth_token|aws_access_key_id|aws_secret_access_key|client_secret|database_password|db_password|db_username|password|secret|token)\s*[:=]\s*['"]?([0-9a-zA-Z\-_=]{8,64})['"]?
+(access_key|access_token|admin_pass|admin_user|api_key|api_secret|app_secret|auth_token|aws_access_key_id|aws_secret_access_key|client_secret|database_password|db_password|db_username|password|secret|token)\s*[:=]\s*['"]?([0-9a-zA-Z\-_=]{8,64})['"]?
